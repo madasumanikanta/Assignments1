@@ -1,4 +1,4 @@
-## abc
+
 
 ## A. Write programs bellow questions.
 
